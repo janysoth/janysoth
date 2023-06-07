@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @janysoth
 - 👀 I’m interested in sports and technology. 
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on learning on how to code. 
+- 📫 How to reach me: janysoth@gmail.com.
 
 <!---
 janysoth/janysoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
